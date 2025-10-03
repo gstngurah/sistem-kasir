@@ -10,6 +10,7 @@ Aplikasi kasir sederhana berbasis PHP dan MySQL untuk pendataan penjualan.
 - Database dikelola melalui phpMyAdmin (MySQL)
 
 ## Instalasi
-1. Clone repository:
+1. Buka Command Prompt atau Terminal
+2. Clone repository :
    ```bash
    git clone https://github.com/gstngurah/sistem-kasir.git
