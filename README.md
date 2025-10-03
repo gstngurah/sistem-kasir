@@ -10,7 +10,19 @@ Aplikasi kasir sederhana berbasis PHP dan MySQL untuk pendataan penjualan.
 - Database dikelola melalui phpMyAdmin (MySQL)
 
 ## Instalasi
-1. Buka Command Prompt atau Terminal
-2. Clone repository :
+1. **Buka Command Prompt atau Terminal**
+2. **Pilih folder tempat penyimpanan** (misalnya `C:\laragon\www` atau `C:\xampp\htdocs`)
+   ```bash
+   cd C:\laragon\www
+3. Clone repository :
    ```bash
    git clone https://github.com/gstngurah/sistem-kasir.git
+4. **Masuk ke folder project**
+   ```bash
+   cd sistem-kasir
+5. **Import database**
+   - Buka **PhpMyAdmin**
+   - Buat database baru dengan nama **db_kasir**
+   - **Import** Database **db_kasir.sql** yang ada di folder project hasil clone
+
+   
