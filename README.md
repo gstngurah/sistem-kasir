@@ -1,5 +1,5 @@
 # Sistem Kasir
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Aplikasi kasir sederhana berbasis PHP dan MySQL untuk pendataan penjualan.
 
 ## Fitur
