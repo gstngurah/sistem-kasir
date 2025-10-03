@@ -11,9 +11,18 @@ Aplikasi kasir sederhana berbasis PHP dan MySQL untuk pendataan penjualan.
 
 ## Instalasi
 1. **Buka Command Prompt atau Terminal**
-2. **Pilih folder tempat penyimpanan** (misalnya `C:\laragon\www` atau `C:\xampp\htdocs`)
+2. **Pilih folder tempat penyimpanan**  
+
+   Misalnya pakai **Laragon**:  
    ```bash
    cd C:\laragon\www
+   ```
+
+   Atau pakai **XAMPP**:  
+   ```bash
+   cd C:\xampp\htdocs
+   ```
+
 3. Clone repository :
    ```bash
    git clone https://github.com/gstngurah/sistem-kasir.git
